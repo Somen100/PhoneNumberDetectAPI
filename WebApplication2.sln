@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2.csproj", "{CCEFE78F-B8DA-4FE1-9408-2A52499247F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneNumberConsoleApp", "..\PhoneNumberConsoleApp\PhoneNumberConsoleApp.csproj", "{F4661B20-FA22-4942-B113-B733B4589615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEFE78F-B8DA-4FE1-9408-2A52499247F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEFE78F-B8DA-4FE1-9408-2A52499247F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEFE78F-B8DA-4FE1-9408-2A52499247F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEFE78F-B8DA-4FE1-9408-2A52499247F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4661B20-FA22-4942-B113-B733B4589615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4661B20-FA22-4942-B113-B733B4589615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4661B20-FA22-4942-B113-B733B4589615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4661B20-FA22-4942-B113-B733B4589615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E081DA43-5197-4D6A-9DE7-82EAED67F8C5}
+	EndGlobalSection
+EndGlobal
